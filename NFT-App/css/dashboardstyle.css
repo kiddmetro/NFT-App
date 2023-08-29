@@ -1,0 +1,97 @@
+
+.nft-design-colour{
+    display: flex;
+    justify-content: space-between;
+}
+
+.nft-section-colour{
+    width: 70px;
+    height: 20px;
+    position: relative;
+
+}
+.nft-design-colour2{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.nft-section-colour2{
+    width: 70px;
+    height: 20px;
+    position: relative;
+    top: -10px;
+}
+
+#div-one{
+    border-right: 2px solid #69406163;
+}
+
+
+#div-three{
+    border-left: 2px solid #69406163;
+}
+
+#div-four{
+    border-left: 2px solid #592a5063;
+}
+
+#div-five{
+    border-left: 2px solid #4f1e458b;
+}
+
+#div-six{
+    border-left: 2px solid #833172c3;
+}
+
+#div-seven{
+    border-left: 2px solid #94287fb3;
+}
+
+#div-eight{
+    border-left: 2px solid #ac2591ce;
+}
+
+#div-nine{
+    border-left: 2px solid #af1390f8;
+}
+#div-ten{
+    border-left: 3px inset #fd00cb;
+}
+
+#div-eleven{
+    border-right: 3px inset #fd00cb;
+}
+
+
+#div-thirteen{
+    border-left: 3px solid #af1390f8;
+}
+
+#div-fourteen{
+    border-left: 3px solid #ac2591ce;
+    /* border-right: 2px solid #7522657f; */
+}
+
+#div-fifteen{
+    border-left: 2px solid #7f1e6cce;
+}
+
+#div-sixteen{
+    border-left: 2px inset #ff5e00;
+}
+
+#div-seventeen{
+    border-left: 3px solid #aa4810;
+}
+
+#div-eighteen{
+    border-left: 1px solid #6b2a04;
+}
+
+#div-nineteen{
+    border-left: 1px solid #6b2a0493;
+}
+#div-twenty{
+    border-left: 2px solid #69406163;
+}
